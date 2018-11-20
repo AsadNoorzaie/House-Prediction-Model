@@ -1,4 +1,4 @@
-# House-Prediction-Model :house:
+# House Prediction Model :house:
 A tool to predict :house: Prices using Machine Learning (One-Shot).
 
 I wrote a C program that implements simple “one-shot” machine learning algo-rithm for predicting house prices in your area.
